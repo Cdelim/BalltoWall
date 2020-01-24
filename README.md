@@ -1,0 +1,1 @@
+This is the build version of the project we did for the Computer Graphics course.
